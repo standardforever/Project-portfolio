@@ -1,4 +1,2 @@
-sending number is not allow on the platform.
-
-below is my WhatsApp number 
-+2349025162207
+# Project director
+You can check my repo to get the list of my projects.
